@@ -1,2 +1,2 @@
 def sanitize_input(text):
-    return text.replace("password", "VASU")
+    return text.replace("password", "****")
